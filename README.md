@@ -1,4 +1,4 @@
-# Loan Eligibility Checker - Machine Learning Project
+# Loan Application Success Prediction - Machine Learning Project
 
 Welcome to the Loan Eligibility Checker project! This repository contains the code and documentation for a machine learning model that predicts loan eligibility based on various features.Loans are a crucial necessity in contemporary society, serving as a significant source of profit for banks. They fulfill various needs, aiding students in managing educational and living expenses and enabling individuals to afford luxuries such as homes and cars. However, determining the eligibility of an applicant for a loan entails considering numerous factors. In this project, we aim to develop a predictive model that utilizes applicant background information, such as gender, marital status, and income, to determine whether a loan application is likely to be approved.
 
